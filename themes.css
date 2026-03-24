@@ -1,0 +1,14 @@
+body.neon {
+  background: #020617;
+  color: #22c55e;
+}
+
+body.cyber {
+  background: black;
+  color: #ff00ff;
+}
+
+body.dark {
+  background: #111;
+  color: white;
+}
