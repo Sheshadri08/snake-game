@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background: radial-gradient(circle, #0f172a, #020617);
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+h1 {
+  color: #22c55e;
+  text-shadow: 0 0 10px #22c55e;
+}
+
+canvas {
+  background: #020617;
+  border: 2px solid #22c55e;
+  box-shadow: 0 0 20px #22c55e;
+  margin: 20px 0;
+}
+
+.score {
+  font-size: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #22c55e;
+  border: none;
+  color: black;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #16a34a;
+}
