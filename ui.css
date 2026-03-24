@@ -38,3 +38,14 @@ button {
 button:hover {
   background: #16a34a;
 }
+canvas {
+  border-radius: 12px;
+  box-shadow: 0 0 30px #22c55e;
+}
+
+.controls button {
+  font-size: 20px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+}
